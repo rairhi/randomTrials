@@ -1,0 +1,22 @@
+
+#firstHeader{
+    color: rgb(182, 130, 107);
+    text-shadow: 5px 5px 4px #381806;
+}
+
+#subtitle{
+    color: #381806;
+}
+
+body{
+    background-color: rgb(85, 55, 37);
+}
+
+.wques{
+    color: white;
+}
+
+dl{
+    color: white;
+}
+
